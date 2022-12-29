@@ -1,0 +1,416 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Adri",
+      "surnames": "Majisimos",
+      "title": "Fullstack software engineer | javascript developer | web3 enthusiast",
+      "description": "1. First item\n2. Second item\n3. Third item\n4. Fourth item",
+      "avatar": {
+        "alt": "cris_thumbsup.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/21/d75c41c0-4e44-4bbd-9ad1-ddebf357bd2f_cris_thumbsup.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/hahhaasddaasffsd"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "ffffffffffffffffffffffffffffffffffffffff",
+        "fact": "tyhtrshfghfsghsfghfghgfhdfghfghgfhfgdhfghdgfhdfgh"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "sdfgdfgfdg",
+        "type": "other",
+        "authors": [
+          {
+            "name": "sdfgsdfg",
+            "surnames": "sdfgsdfg",
+            "title": "Author"
+          }
+        ],
+        "summary": "dfsgfdgdsf"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "sssss"
+        },
+        "roles": [
+          {
+            "name": "srfgthsfgb",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "Abap",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MR"
+        },
+        "roles": [
+          {
+            "name": "Mosquitoes researcher",
+            "startDate": "1954-02-01",
+            "challenges": [
+              {
+                "description": "hahaha"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "shgbgfhggh",
+          "description": "dfghgfhdfgh"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "1985-09-01",
+            "competences": [
+              {
+                "name": "Abap",
+                "type": "technology"
+              },
+              {
+                "name": "Abstract",
+                "type": "technology"
+              },
+              {
+                "name": "ActiveCampaign",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "erferferf",
+          "description": "erferferf"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "1956-02-01",
+            "competences": [
+              {
+                "name": "ActiveCampaign",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "dfghgdfhgfhdfg",
+          "description": "dfgfhbfghfgh"
+        },
+        "type": "talk",
+        "publishingDate": "1958-09-01",
+        "relatedCompetences": [
+          {
+            "name": "Abap",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          ""
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Arabic",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Basque",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Bulgarian",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Catalan",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Croatian",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Ukranian",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apple iOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "44444",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "dfgdfgdsf",
+          "description": "55555"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "gdfgsdfgdfqwefrefqerfererfeqrf",
+        "startDate": "2004-03-01",
+        "institution": {
+          "name": "sgdfgsdfqwe",
+          "description": "dfgsdfgsdfgqwer4rfderfweqfwerf",
+          "URL": "https://www.google.com/search?q=contador+caracteres&rlz=1C1CHBF_esES1006ES1006&oq=contador+ca&aqs=chrome.0.0i131i433i512j69i57j0i512l8.2399j0j7&sourceid=chrome&ie=UTF-8"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abap",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "ActiveMQ",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ewferrferfwffrqerferferfqrqerfqer",
+        "startDate": "1999-08-01",
+        "institution": {
+          "name": "frfrreferfersss",
+          "description": "erferferferfrefrfrqerfqerferqf",
+          "URL": "https://getmanfred.com/blogr",
+          "image": {
+            "alt": "AJAX_logo_by_gengns.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/07/d4ca4a52-0fcd-416d-adf1-26296de4b2e6_ajax_logo_by_gengns.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "ADA",
+            "type": "technology"
+          },
+          {
+            "name": "Abap",
+            "type": "technology"
+          },
+          {
+            "name": "Abstract",
+            "type": "technology"
+          },
+          {
+            "name": "ActiveMQ",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "dfgsdfgdf",
+        "startDate": "1963-09-01",
+        "institution": {
+          "name": "dfgdfgdsf",
+          "description": "gdfsgsdfgdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "3D Studio Max",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "TEST JUAN",
+        "startDate": "1962-09-01",
+        "institution": {
+          "name": "JUAN",
+          "description": "sdpgvloijfgbigasjdmFChijkbhkjbhkjkkmkmAQWAQ"
+        },
+        "linkedCompetences": [
+          {
+            "name": "ADA",
+            "type": "technology"
+          },
+          {
+            "name": "Abap",
+            "type": "technology"
+          },
+          {
+            "name": "ActiveCampaign",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "SWSWSWSWS",
+        "startDate": "1951-03-01",
+        "institution": {
+          "name": "werqwerqwe",
+          "description": "WSWSWSWSW"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Abstract",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "aws",
+        "startDate": "2021-06-01",
+        "finishDate": "2024-06-01",
+        "institution": {
+          "name": "JUAN",
+          "description": "aws"
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/hahhaasddaasffsd"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Abstract",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Abstract",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Accounting & Financial Planning"
+      ]
+    },
+    "status": "notAvailable"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "AngularJS",
+        "type": "technology"
+      },
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Apple iOS",
+        "type": "technology"
+      },
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      }
+    ]
+  }
+}
