@@ -329,6 +329,30 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "TEST ADRI",
+        "startDate": "1962-09-01",
+        "institution": {
+          "name": "JUAN",
+          "description": "sdpgvloijfgbigasjdmFChijkbhkjbhkjkkmkmAQWAQ"
+        },
+        "linkedCompetences": [
+          {
+            "name": "ADA",
+            "type": "technology"
+          },
+          {
+            "name": "Abap",
+            "type": "technology"
+          },
+          {
+            "name": "ActiveCampaign",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "SWSWSWSWS",
         "startDate": "1951-03-01",
         "institution": {
